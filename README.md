@@ -1,2 +1,2 @@
-# Dashboards1
-Projetos de dashboards em PowerBi
+## Dashboards
+Projetos de dashboards criados em PowerBi.
